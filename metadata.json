@@ -1,0 +1,6 @@
+{
+  "name": "J.A.R.V.I.S. Neural Core",
+  "description": "V.I.A.R.I.N.I. (Very Intelligent Autonomous Reconnaissance & Integrated Neural Interface) - Advanced Stark AI assistant with voice conversation, HUD telemetry, optical vision scanner, and tactical protocols.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
